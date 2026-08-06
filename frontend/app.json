@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    "expo-secure-store",
+    "@react-native-community/datetimepicker"
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "f9145178-46e7-40b1-8f68-eae084013198"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.joshuanuhu.studyplannerfrontend"
+    }
+  }
+}
